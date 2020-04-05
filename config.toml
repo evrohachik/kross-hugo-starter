@@ -4,13 +4,9 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Aleksandr Cheverdak CV"
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = 1
 [params]
 address = ""
 author = "Aleksandr Cheverdak"
