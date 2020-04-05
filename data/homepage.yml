@@ -12,6 +12,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: English
+    progress: 50%
+    color: ''
   - title: PC/Mac/Linus
     progress: 70%
     color: "#fdb157"
