@@ -48,18 +48,15 @@ education:
   enable: true
   title: Education
   item:
+  - title: Design and photo
+    year: "2009"
+    academy: IT Step
   - title: Computer Science
     year: "2011"
     academy: EUNU
   - title: Web-development
     year: "2014"
     academy: IT Step
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
 service:
   enable: true
   title: Services
