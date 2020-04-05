@@ -5,7 +5,7 @@ about:
   enable: true
   content: Hello World!
   button:
-    enable: true
+    enable: false
     label: know more
     URL: about
 skill:
