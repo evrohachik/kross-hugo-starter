@@ -2,7 +2,7 @@
 banner:
   title: Hi! I’m <br> Alex <br>
 about:
-  enable: true
+  enable: false
   content: Hello World!
   button:
     enable: false
