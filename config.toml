@@ -57,8 +57,5 @@ icon = "ti-facebook"
 URL = "https://www.instagram.com/evrohachik/"
 icon = "ti-instagram"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "https://twitter.com/evrohachik2"
 icon = "ti-twitter-alt"
