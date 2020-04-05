@@ -51,7 +51,7 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
+URL = "https://www.linkedin.com/in/aleksandr-cheverdak/"
 icon = "ti-linkedin"
 [[params.social]]
 URL = "https://www.facebook.com/evrohachik"
