@@ -2,11 +2,15 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Aleksandr Cheverdak CV"
+title = ""
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 1
+weight = 5
 [params]
 address = ""
 author = "Aleksandr Cheverdak"
