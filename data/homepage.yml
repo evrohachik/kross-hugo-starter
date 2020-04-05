@@ -60,6 +60,9 @@ education:
   - title: Spanish
     year: "2015"
     academy: CPEBPA
+  - title: Frontend Boot Camp
+    year: "2017"
+    academy: Astound Commerce
 service:
   enable: true
   title: Services
